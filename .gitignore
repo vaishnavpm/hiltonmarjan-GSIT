@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.tsbuildinfo
+test-results/
+playwright-report/
+verification/
+desktop.png
+*.tar.gz
+.openai/
