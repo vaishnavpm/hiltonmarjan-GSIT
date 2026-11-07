@@ -7,3 +7,5 @@ verification/
 desktop.png
 *.tar.gz
 .openai/
+
+.vercel
